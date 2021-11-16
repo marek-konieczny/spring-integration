@@ -1,0 +1,6497 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>AIQ IA Worksheet</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'"/>
+    <link rel="stylesheet" type="text/css" media="all" href="/templates/ia-worksheet/css/styles.css"/>
+</head>
+
+<body>
+<div class="footer">Powered by FAM</div>
+
+<!-- SUMMARY BEGIN -->
+
+
+  <div class="report-header">
+    <table class="table">
+      <tr>
+        <td class="company">
+          <img class="logo"
+               src="/templates/ia-worksheet/images/fam.png"/>
+        </td>
+        <td class="value app-name">AIQ Income Worksheet</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="divider">
+    <img class="gradient-divider" src="/templates/ia-worksheet/images/gradient-divider.png" alt="gradient-divider"/>
+  </div>
+
+  
+    <table class="touchless_table">
+      <tr>
+        <th style="width: 45%" >
+        <span  class="generation">Generated on 11/08/2021 09:48 AM (UTC) </span>
+        </th>
+        <th>
+          <div class="stamp">Touchless</div>
+        </th>
+      </tr>
+    </table>
+  
+  
+  
+
+  <!--Rules passed -->
+  <div class="generated-info">
+    
+    
+      
+      <div>
+      
+        <span id="generatedDate" class="generated-date">22 rules failed</span>
+      </div>
+    
+
+  </div>
+
+  <div class="loan-summary-label">Loan Summary</div>
+  <table class="loan-summary-table">
+    <tr>
+      <th>Loan Number</th>
+      <td>IASelfEmpPopup</td>
+    </tr>
+    <tr>
+      <th>Type</th>
+      <td>Conventional Loan</td>
+    </tr>
+    <tr>
+      <th>Total Monthly Income</th>
+      <td class="big bold">$3,975.80</td>
+    </tr>
+  </table>
+
+  <div class="applicants-label">APPLICANTS</div>
+  <div>
+    <table class="borrower-summary-table">
+      <tr>
+        <th class="bold">Mary Homeowner</th>
+        <td class="bold">$3,975.71</td>
+      </tr>
+      
+        <tr>
+          <th>Self-Employment</th>
+          <td>$3,975.71</td>
+        </tr>
+      
+    </table>
+
+  </div>
+  <div>
+    <table class="borrower-summary-table">
+      <tr>
+        <th class="bold">Erica Lambert</th>
+        <td class="bold">$0.09</td>
+      </tr>
+      
+        <tr>
+          <th>Self-Employment</th>
+          <td>$0.09</td>
+        </tr>
+      
+    </table>
+
+  </div>
+
+
+
+<div class="new-page"></div>
+<!-- SUMMARY END -->
+
+
+
+
+    <body>
+    <div>
+        <div>
+            <div>
+
+                <div>
+                    
+                        <div class="new-page"></div>
+                    
+                    <!-- Split per incomeType based on fact that we will use different htmls -->
+                    
+
+                    
+                        
+    <body>
+    <div class="report-header">
+        <table class="table">
+            <tr>
+                <td class="loanType">
+                    <div>CONVENTIONAL LOAN | Mary Homeowner</div>
+                </td>
+                <td class="value app-name">AIQ Income Worksheet</td>
+            </tr>
+        </table>
+    </div>
+
+    <table class="borrower-table avoid-page-break-element">
+        <tr>
+            <th>Applicant Name</th>
+            <th>Employer Name</th>
+        </tr>
+        <tr>
+            <td>Mary Homeowner</td>
+            <td>Dept of Interior Inc</td>
+        </tr>
+    </table>
+
+    <table class="income-table self-employment">
+        <tr>
+            
+            
+                <th colspan="16" class="title">1120S</th>
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+                    <th colspan="4" class="align-left">
+                        <span>IRS FORM 1040</span>
+                        <span class="font-normal"> - Individual income tax return</span>
+                    </th>
+                
+
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2021 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2020 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2019 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2018 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+            
+                <td colspan="4" class="align-left px-4">
+                    <span>W-2 Income from Self-Employment</span>
+                </td>
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$34,437.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$72,223.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$43,132.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$23,154.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+                    <th colspan="4" class="align-left">
+                        <span>IRS FORM 1120S</span>
+                        <span class="font-normal"> - S Corporation Earnings (Sch K-1)</span>
+                    </th>
+                
+
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2021 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2020 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2019 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2018 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Ordinary (Income) Loss from Other Partnerships</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$6,786.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$2,544.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$16,500.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$666.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Net Rental Real Estate; Other Net Rental Income (Loss)</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$3,333.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$6,432.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$7,060.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$3,333.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+                    <th colspan="4" class="align-left">
+                        <span>IRS FORM 1120S</span>
+                        <span class="font-normal"> - Adjustments to business cash flow</span>
+                    </th>
+                
+
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2021 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2020 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2019 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2018 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Nonrecurring Other (Income) Loss</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$7,555.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$6,236.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$3,685.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$5,555.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Depreciation</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$4,444.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$4,457.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$3,060.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$4,444.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Depletion</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$2,222.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$3,344.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$5,005.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$2,222.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Amortization/Casualty Loss</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>-</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>-</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>-</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>-</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Mortgages or Notes Payable in Less than 1 Year</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>($1,111.00)</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>($1,643.00)</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>($1,060.00)</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>($1,111.00)</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Non-deductible Travel and Entertainment Expenses</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>($500.00)</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>($3,457.00)</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>($1,600.00)</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>($500.00)</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg highlight">
+                        <span>Subtotal Form 1120S</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$12,610.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$8,937.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$9,090.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$10,610.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+            
+                <td colspan="4" class="align-left px-4">
+                    <span>x Percent Ownership</span>
+                </td>
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>25.00%</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>50.00%</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>75.00%</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>100.00%</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+            
+                <td colspan="4" class="align-left px-4 highlight">
+                    <span>= Total Form 1120S</span>
+                </td>
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$3,152.50</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$4,468.50</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$6,817.50</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$10,610.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg highlight">
+                        <span>Total S-Corp Income</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$13,271.50</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$13,444.50</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$30,377.50</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$14,609.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg highlight">
+                        <span>Self-Employment Income</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                <td colspan="3"  class="td active">
+                                    <span>$47,708.50</span>
+                                </td>
+                            
+                            
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$85,667.50</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$73,509.50</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$37,763.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+            
+    <tr>
+        <td colspan="4" class="align-left th-bg">Months Worked</td>
+        
+            
+                
+                    <td colspan="3" class="td active">
+                        <span>12</span>
+                    </td>
+                
+            
+            
+        
+            
+            
+                
+                    <td colspan="3">
+                        <span>12</span>
+                    </td>
+                
+            
+        
+            
+            
+                
+                    <td colspan="3">
+                        <span>12</span>
+                    </td>
+                
+            
+        
+            
+            
+                
+                    <td colspan="3">
+                        <span>12</span>
+                    </td>
+                
+            
+        
+    </tr>
+    <tr><th colspan="16">Historical Average</th></tr>
+    <tr>
+        <th colspan="4" class="align-left"><span>2021 avg</span></th>
+        <td colspan="12" class="td active"><span>$190,834.00 / 12 mths = $3,975.71</span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="16" class="bg-none p-0">
+            <table class="table-fixed w-100p">
+                <tr>
+                    <td class="td w-50p bg-none p-8"></td>
+                    <th class="th w-25p align-left p-8 ">Monthly Total</th>
+                    <td class="td w-25p monthly-total active  p-8">
+                        $3,975.71
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    </table>
+    </body>
+
+                    
+
+                    
+
+                    <!-- Add summary only after last job in last employer only -->
+                    
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    <div>
+        <div>
+            <div>
+
+                <div>
+                    
+                        <div class="new-page"></div>
+                    
+                    <!-- Split per incomeType based on fact that we will use different htmls -->
+                    
+
+                    
+                        
+    <body>
+    <div class="report-header">
+        <table class="table">
+            <tr>
+                <td class="loanType">
+                    <div>CONVENTIONAL LOAN | Erica Lambert</div>
+                </td>
+                <td class="value app-name">AIQ Income Worksheet</td>
+            </tr>
+        </table>
+    </div>
+
+    <table class="borrower-table avoid-page-break-element">
+        <tr>
+            <th>Applicant Name</th>
+            <th>Employer Name</th>
+        </tr>
+        <tr>
+            <td>Erica Lambert</td>
+            <td>Capsilon One Inc</td>
+        </tr>
+    </table>
+
+    <table class="income-table self-employment">
+        <tr>
+            
+            
+                <th colspan="16" class="title">1120S</th>
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+                    <th colspan="4" class="align-left">
+                        <span>IRS FORM 1040</span>
+                        <span class="font-normal"> - Individual income tax return</span>
+                    </th>
+                
+
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2021 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2020 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2019 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2018 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+            
+                <td colspan="4" class="align-left px-4">
+                    <span>W-2 Income from Self-Employment</span>
+                </td>
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$1.10</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$1.10</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$1.10</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$1.10</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+                    <th colspan="4" class="align-left">
+                        <span>IRS FORM 1120S</span>
+                        <span class="font-normal"> - S Corporation Earnings (Sch K-1)</span>
+                    </th>
+                
+
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2021 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2020 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2019 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2018 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Ordinary (Income) Loss from Other Partnerships</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Net Rental Real Estate; Other Net Rental Income (Loss)</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+                    <th colspan="4" class="align-left">
+                        <span>IRS FORM 1120S</span>
+                        <span class="font-normal"> - Adjustments to business cash flow</span>
+                    </th>
+                
+
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2021 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2020 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2019 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+
+                <!-- YEAR -->
+                
+                    
+
+                        
+                            <th colspan="3">
+                                <div>2018 Tax Return</div>
+                            </th>
+                        
+                        
+                    
+                
+
+                <!-- AMOUNT -->
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Nonrecurring Other (Income) Loss</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Depreciation</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Depletion</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Amortization/Casualty Loss</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>-</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>-</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>-</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>-</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Mortgages or Notes Payable in Less than 1 Year</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg">
+                        <span>Non-deductible Travel and Entertainment Expenses</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg highlight">
+                        <span>Subtotal Form 1120S</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+            
+                <td colspan="4" class="align-left px-4">
+                    <span>x Percent Ownership</span>
+                </td>
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>0.00%</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>0.00%</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>0.00%</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>0.00%</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+            
+                <td colspan="4" class="align-left px-4 highlight">
+                    <span>= Total Form 1120S</span>
+                </td>
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg highlight">
+                        <span>Total S-Corp Income</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                
+                                    <td colspan="3">
+                                        <span>$0.00</span>
+                                    </td>
+                                
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$0.00</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+
+        <tr>
+
+            <!--First column labels-->
+            
+
+                
+
+                
+                    <td colspan="4" class="align-left th-bg highlight">
+                        <span>Self-Employment Income</span>
+                    </td>
+                
+            
+
+            
+
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                <td colspan="3"  class="td active">
+                                    <span>$1.10</span>
+                                </td>
+                            
+                            
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+
+                            
+                            
+                                <td colspan="3"  class="td active">
+                                    <span>$1.10</span>
+                                </td>
+                            
+                            
+                            
+                        
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$1.10</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+
+                <!-- YEAR -->
+                
+
+                <!-- AMOUNT -->
+                
+                    
+                        
+                        
+                            
+                                <td colspan="3">
+                                    <span>$1.10</span>
+                                </td>
+                            
+                        
+
+                    
+                
+            
+        </tr>
+            
+    <tr>
+        <td colspan="4" class="align-left th-bg">Months Worked</td>
+        
+            
+                
+                    <td colspan="3" class="td active">
+                        <span>12</span>
+                    </td>
+                
+            
+            
+        
+            
+                
+                    <td colspan="3" class="td active">
+                        <span>12</span>
+                    </td>
+                
+            
+            
+        
+            
+            
+                
+                    <td colspan="3">
+                        <span>12</span>
+                    </td>
+                
+            
+        
+            
+            
+                
+                    <td colspan="3">
+                        <span>12</span>
+                    </td>
+                
+            
+        
+    </tr>
+    <tr><th colspan="16">Historical Average</th></tr>
+    <tr>
+        <th colspan="4" class="align-left"><span>2021 + 2020 avg</span></th>
+        <td colspan="12" class="td active"><span>$8.80 / 24 mths = $0.09</span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="16" class="bg-none p-0">
+            <table class="table-fixed w-100p">
+                <tr>
+                    <td class="td w-50p bg-none p-8"></td>
+                    <th class="th w-25p align-left p-8 ">Monthly Total</th>
+                    <td class="td w-25p monthly-total active  p-8">
+                        $0.09
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+
+    </table>
+    </body>
+
+                    
+
+                    
+
+                    <!-- Add summary only after last job in last employer only -->
+                    
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    </body>
+
+
+<div class="new-page"></div>
+
+
+        <div class="data-container applicant-details">
+            
+
+            
+                
+                    <div class="report-header">
+                        <table class="table">
+                            <tr>
+                                <td class="loanType">
+                                    <div>CONVENTIONAL LOAN</div>
+                                </td>
+                                <td class="value app-name">AIQ Income Worksheet</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="data-title title-1">
+                        <table class="property">
+                            <tr>
+                                <td class="key">Rules</td>
+                                <td class="value">
+                                    Failed (12),  Waived (0),  All (65)
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="separator"></div>
+
+                    <div class="section main">
+                        <div class="title-2">Mary Homeowner</div>
+                        <table class="rules">
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">If self-employment income is not derived from Schedule C, have business Tax Returns for the most recent 2 years been provided?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is there a (E)VOE, W-2, or final year-end Paystub covering the most recent one-year period?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the most recent (E)VOE or Paystub dated no earlier than 30 days prior to the initial loan application date?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the employer address present on all W2s for each current and previous job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are the SSI Tax Calculations on the W-2 consistent with current tax rates?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are the Medicare Tax Calculations on the W-2 present and not 0.0?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the borrower’s SSN consistent across the loan application and W-2?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are the employee earnings precise (not rounded) on the W-2?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Do the income amounts in the LOS match the income amounts used for qualifying in Income Analyzer?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Do the income documents match with the employment application dates?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">There are missing tax returns for last 2 years</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the current self-employment income trend within the allowable tolerance?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Does the employer name on the document match the employer name on the loan application for each current and previous job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">If the self-employed box is checked, is the ownership percentage provided?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Test rule - it only checks if we get all the necessary documents.</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is there a minimum history of 2 years of employment income?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are there any employment gaps ≥ 30 days?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the borrower identified as the employee on all W2s for each current and previous job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Does the Borrower have at least a 2 year history of self-employment at their current job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If there is Schedule C employment, is the borrower identified as the owner of the business on the associated 1040 Schedule C?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If there is Schedule C self-employment on the 1040 Schedule 1, was the Schedule C provided?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If personal Tax Returns (form 1040) show other income from Schedule 1, was a Schedule 1 provided?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the borrower‘s year-end address on the personal Tax Returns (form 1040) match with the Loan Application?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the borrower‘s SSN present on the personal Tax Returns (form 1040) match SSN on the Loan Application?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If the target investor is Freddie Mac, is the closing date compliant with Application date and Tax Return submission deadline?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the SSN present on the Schedule 1 forms match SSN on the personal Tax Returns (form 1040)?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the borrower‘s SSN present on the Schedule C match SSN on the Loan Application?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is YTD pay present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is YTD Thru Date present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the (E)VOEs less than 120 days old for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are YTD earnings present on the paystub for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the most recent paystub less than 120 days old?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the pay frequency consistent for an employer across all Paystubs?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the projected base income appear consistent?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the current hourly job income trend within the allowable tolerance?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Applicant’s Date of Employment present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Date Hired and Date Terminated present on the Verification of Employment and is Hired Date before Terminated Date for each previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the borrower identified as the employee on the (E)VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Employer Phone Number present on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the department correct on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the employer address present on the (E)VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Present Position present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Position Held present on the (E)VOE for each previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Employer Signature present on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Employer Title present on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is there a pay rate and is hourly indicated on the (E)VOE?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Box 15 Average Number of Hours per Week present on the VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the paystub hours consistent with the pay frequency?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the borrower identified as the employee on the paystub for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the VOE indicate employment is likely to continue?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the SSI Tax Calculations on the paystub consistent with current tax rates?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the Medicare Tax Calculations on the paystub present and not 0.0?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the income reflected on W-2 match the income reported on a (E)VOE?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the SSN on the W-2 in a valid format?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the employee earnings precise (not rounded) on the VOE?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Was the VOE completed before it was ordered?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>The pay frequency on the paystub cannot be determined. To calculate a base income average, is there a final year end paystub from the prior year or an (E)VOE from the current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>The pay frequency and YTD base income on the paystub cannot be determined. Is there an (E)VOE from the current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the (E)VOE thru date within 30 days of the verified date?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the borrower currently employed?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is there a Verification of Employment dated within 10 business days of closing for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is there an EVOE or EVOE Without Income note date is greater than 35 calendar days?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the current base pay less than or equal to the current gross pay on the paystubs?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the YTD base pay less than or equal to the YTD gross pay on the paystubs?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the current salaried  job income trend within the allowable tolerance?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                        </table>
+                    </div>
+
+                    <div class="new-page"></div>
+            
+                    <div class="report-header">
+                        <table class="table">
+                            <tr>
+                                <td class="loanType">
+                                    <div>CONVENTIONAL LOAN</div>
+                                </td>
+                                <td class="value app-name">AIQ Income Worksheet</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="data-title title-1">
+                        <table class="property">
+                            <tr>
+                                <td class="key">Rules</td>
+                                <td class="value">
+                                    Failed (10),  Waived (0),  All (65)
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div class="separator"></div>
+
+                    <div class="section main">
+                        <div class="title-2">Erica Lambert</div>
+                        <table class="rules">
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">If self-employment income is not derived from Schedule C, have business Tax Returns for the most recent 2 years been provided?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the most recent (E)VOE or Paystub dated no earlier than 30 days prior to the initial loan application date?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the employer address present on all W2s for each current and previous job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are the SSI Tax Calculations on the W-2 consistent with current tax rates?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are the Medicare Tax Calculations on the W-2 present and not 0.0?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the borrower’s SSN consistent across the loan application and W-2?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are the employee earnings precise (not rounded) on the W-2?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Do the income amounts in the LOS match the income amounts used for qualifying in Income Analyzer?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">Do the income documents match with the employment application dates?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            <img  src="/templates/ia-worksheet/images/rules/rule-failed.png"/>
+            
+        </td>
+        <td class="desc">
+            <div class="desc-content">There are missing tax returns for last 2 years</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Does the employer name on the document match the employer name on the loan application for each current and previous job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">If the self-employed box is checked, is the ownership percentage provided?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Test rule - it only checks if we get all the necessary documents.</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is there a minimum history of 2 years of employment income?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Are there any employment gaps ≥ 30 days?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is there a (E)VOE, W-2, or final year-end Paystub covering the most recent one-year period?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the borrower identified as the employee on all W2s for each current and previous job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Does the Borrower have at least a 2 year history of self-employment at their current job?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    <tr class="avoid-page-break-element rule other">
+        <td class="status">
+            
+            <img class="status" src="/templates/ia-worksheet/images/rules/rule-passed.png"/>
+        </td>
+        <td class="desc">
+            <div class="desc-content">Is the current self-employment income trend within the allowable tolerance?</div>
+        </td>
+    </tr>
+
+    <!-- NOT APPLICABLE -->
+    
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If there is Schedule C employment, is the borrower identified as the owner of the business on the associated 1040 Schedule C?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If there is Schedule C self-employment on the 1040 Schedule 1, was the Schedule C provided?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If personal Tax Returns (form 1040) show other income from Schedule 1, was a Schedule 1 provided?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the borrower‘s year-end address on the personal Tax Returns (form 1040) match with the Loan Application?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the borrower‘s SSN present on the personal Tax Returns (form 1040) match SSN on the Loan Application?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>If the target investor is Freddie Mac, is the closing date compliant with Application date and Tax Return submission deadline?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the SSN present on the Schedule 1 forms match SSN on the personal Tax Returns (form 1040)?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the borrower‘s SSN present on the Schedule C match SSN on the Loan Application?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is YTD pay present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is YTD Thru Date present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the (E)VOEs less than 120 days old for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are YTD earnings present on the paystub for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the most recent paystub less than 120 days old?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the pay frequency consistent for an employer across all Paystubs?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the projected base income appear consistent?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the current hourly job income trend within the allowable tolerance?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Applicant’s Date of Employment present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Date Hired and Date Terminated present on the Verification of Employment and is Hired Date before Terminated Date for each previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the borrower identified as the employee on the (E)VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Employer Phone Number present on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the department correct on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the employer address present on the (E)VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Present Position present on the (E)VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Position Held present on the (E)VOE for each previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Employer Signature present on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Employer Title present on the VOE for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is there a pay rate and is hourly indicated on the (E)VOE?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is Box 15 Average Number of Hours per Week present on the VOE for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the paystub hours consistent with the pay frequency?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the borrower identified as the employee on the paystub for each current and previous job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the VOE indicate employment is likely to continue?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the SSI Tax Calculations on the paystub consistent with current tax rates?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the Medicare Tax Calculations on the paystub present and not 0.0?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Does the income reflected on W-2 match the income reported on a (E)VOE?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the SSN on the W-2 in a valid format?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Are the employee earnings precise (not rounded) on the VOE?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Was the VOE completed before it was ordered?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>The pay frequency on the paystub cannot be determined. To calculate a base income average, is there a final year end paystub from the prior year or an (E)VOE from the current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>The pay frequency and YTD base income on the paystub cannot be determined. Is there an (E)VOE from the current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the (E)VOE thru date within 30 days of the verified date?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the borrower currently employed?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is there a Verification of Employment dated within 10 business days of closing for each current job?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is there an EVOE or EVOE Without Income note date is greater than 35 calendar days?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the current base pay less than or equal to the current gross pay on the paystubs?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the YTD base pay less than or equal to the YTD gross pay on the paystubs?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                                
+
+    <!-- WAIVED -->
+    
+
+    <!-- NOT WAIVED css column span not works need to define second template for colspan -->
+    
+
+    <!-- NOT APPLICABLE -->
+    <tr class="avoid-page-break-element rule">
+        <td class="status">
+            <div class="na-icon"></div>
+        </td>
+        <td class="desc not-applicable">
+            <div>Is the current salaried  job income trend within the allowable tolerance?</div>
+            <div class="na">Not Applicable</div>
+        </td>
+    </tr>
+
+
+                            
+                        </table>
+                    </div>
+
+                    <div class="new-page"></div>
+            
+
+            
+        </div>
+    
+
+</body>
+</html>
+
